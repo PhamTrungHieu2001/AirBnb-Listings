@@ -34,5 +34,6 @@ Tableau: data analysis and visualisation
 ## Which type of room was the most popular?
 - Rooms with 1 bedroom were the most popular type with nearly 2000 rooms, accounting for over 70% of total rooms.
 - Meanwhile, there were only 5 rooms that have 6 bedrooms.
+
 ![4](https://github.com/PhamTrungHieu2001/AirBnb-Listings/blob/main/images/number%20of%20rooms%20by%20bedrooms.jpg)
 
