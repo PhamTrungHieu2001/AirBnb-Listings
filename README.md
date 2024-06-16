@@ -2,18 +2,12 @@
 For my visualisation and data story, please also checkout the [Tableau Public Viz](https://public.tableau.com/app/profile/hieu.pham7426/viz/AirBnbListings_17167419793510/Story1).
 
 # Introduction
-## Overview
 This project provides a short analysis of Airbnb listings in Seattle for the year 2016, focusing on factors affecting the pricing of the rental market.
-
-## Objective
 The project focuses on answering questions like:
 1. What was the most expensive area?
 2. At what time of the year was the price highest?
 3. What affected the price of a room?
 4. Which type of room was the most popular?
-
-## Tool used
-Tableau: data analysis and visualisation
 
 # Analysis
 ## What was the most expensive area?
